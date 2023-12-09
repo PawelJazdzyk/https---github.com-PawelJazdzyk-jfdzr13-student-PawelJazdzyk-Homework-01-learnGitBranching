@@ -1,0 +1,6 @@
+div{
+    color: green;
+}
+p:first-of-type{
+    color: black;
+}
